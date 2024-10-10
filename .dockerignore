@@ -1,0 +1,6 @@
+dist
+*.log
+.segui-1
+Dockerfile
+docker-compose.yml
+__pycache___
